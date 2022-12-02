@@ -23,7 +23,6 @@ main {
 }
 
 .container {
-    border: 1px solid black;
     width: 1000px;
     height: 500px;
     padding: 0;
